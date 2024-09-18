@@ -1,0 +1,30 @@
+[submodule "uso-squash-merge"]
+	path = uso-squash-merge
+	url = https://github.com/CarlosCCQ/uso-squash-merge.git
+[submodule "try-no-fast-forward-merge"]
+	path = try-no-fast-forward-merge
+	url = https://github.com/CarlosCCQ/try-no-fast-forward-merge.git
+[submodule "try-fast-forward-merge"]
+	path = try-fast-forward-merge
+	url = https://github.com/CarlosCCQ/try-fast-forward-merge.git
+[submodule "try-auto-merge"]
+	path = try-auto-merge
+	url = https://github.com/CarlosCCQ/try-auto-merge.git
+[submodule "try-squash-merge"]
+	path = try-squash-merge
+	url = https://github.com/CarlosCCQ/try-squash-merge.git
+[submodule "try-merge-conflict"]
+	path = try-merge-conflict
+	url = https://github.com/CarlosCCQ/try-merge-conflict.git
+[submodule "try-compare-merge"]
+	path = try-compare-merge
+	url = https://github.com/CarlosCCQ/try-compare-merge.git
+[submodule "simulacion"]
+	path = simulacion
+	url = https://github.com/CarlosCCQ/simulacion.git
+[submodule "kapumota-repo"]
+	path = kapumota-repo
+	url = https://github.com/CarlosCCQ/kapumota-repo.git
+[submodule "repositorio-Prueba-Actividad4-CC3S2"]
+	path = repositorio-Prueba-Actividad4-CC3S2
+	url = https://github.com/CarlosCCQ/repositorio-Prueba-Actividad4-CC3S2.git
